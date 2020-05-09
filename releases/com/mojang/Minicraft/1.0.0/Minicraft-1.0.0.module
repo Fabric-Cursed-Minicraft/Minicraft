@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.1",
-      "buildId": "7e3n6xwflzdcve5zujyqulioiu"
+      "buildId": "3mkkrj6lznannbz3jiqs4ywx6i"
     }
   },
   "variants": [
@@ -28,11 +28,11 @@
         {
           "name": "Minicraft-1.0.0.jar",
           "url": "Minicraft-1.0.0.jar",
-          "size": 264444,
-          "sha512": "03baef0f73ba91f41e3178ddf8a38ce1f7b8a043c50bb093ebd440633120d8ee22771fc8700a2d9a03e41886156596087cc922fd4b7ceaec09824c7804311655",
-          "sha256": "b0f03b96eb9ebd602af53d6e9bd309d9cf6307208a8345b8dc55d98d6756dce3",
-          "sha1": "3f831a081fd4198e7e3467bbc7f55697055ff002",
-          "md5": "25f87bb4c6372b4c811b1a985c8ed24d"
+          "size": 264281,
+          "sha512": "44b1269aea57f7731de00da574a1fd1e6202c7e4d11846fbd745a99c3f4d7019aa9e6506e5d67fa1f4107228af6141d4ccbcd7a8ab5d8f4540c1dec25d5034be",
+          "sha256": "1330c958a7fc76771f1ddb770ab9f0c9ff636661f2fcc1fbc1c21fad7249af64",
+          "sha1": "d55f9a90478f773baef412d23db0657256ae176f",
+          "md5": "6c0402941f23ef129bddd985425f1377"
         }
       ]
     },
@@ -49,11 +49,11 @@
         {
           "name": "Minicraft-1.0.0.jar",
           "url": "Minicraft-1.0.0.jar",
-          "size": 264444,
-          "sha512": "03baef0f73ba91f41e3178ddf8a38ce1f7b8a043c50bb093ebd440633120d8ee22771fc8700a2d9a03e41886156596087cc922fd4b7ceaec09824c7804311655",
-          "sha256": "b0f03b96eb9ebd602af53d6e9bd309d9cf6307208a8345b8dc55d98d6756dce3",
-          "sha1": "3f831a081fd4198e7e3467bbc7f55697055ff002",
-          "md5": "25f87bb4c6372b4c811b1a985c8ed24d"
+          "size": 264281,
+          "sha512": "44b1269aea57f7731de00da574a1fd1e6202c7e4d11846fbd745a99c3f4d7019aa9e6506e5d67fa1f4107228af6141d4ccbcd7a8ab5d8f4540c1dec25d5034be",
+          "sha256": "1330c958a7fc76771f1ddb770ab9f0c9ff636661f2fcc1fbc1c21fad7249af64",
+          "sha1": "d55f9a90478f773baef412d23db0657256ae176f",
+          "md5": "6c0402941f23ef129bddd985425f1377"
         }
       ]
     }
