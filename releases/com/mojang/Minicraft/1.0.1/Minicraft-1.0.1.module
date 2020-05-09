@@ -1,0 +1,61 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.mojang",
+    "module": "Minicraft",
+    "version": "1.0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.1",
+      "buildId": "gzbcbkvzhneing55vzrgjim35u"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "Minicraft-1.0.1.jar",
+          "url": "Minicraft-1.0.1.jar",
+          "size": 264281,
+          "sha512": "b3d500c0a966bf1c21037ec52f10e1f64441e7548637a02cd8b279896aa1866e02074ad442734cd73948a95009ec92f61c0847847541293530752e83e7c625f6",
+          "sha256": "d2a42cc96ebb11e3f3f5a4234746ae19153dc2fd6ed22bad0efc2fc83b9d675e",
+          "sha1": "583d9c6410c210f0db4f8c327cdedce407d74487",
+          "md5": "38b8391db67bdef0dbc40b292468bf91"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "Minicraft-1.0.1.jar",
+          "url": "Minicraft-1.0.1.jar",
+          "size": 264281,
+          "sha512": "b3d500c0a966bf1c21037ec52f10e1f64441e7548637a02cd8b279896aa1866e02074ad442734cd73948a95009ec92f61c0847847541293530752e83e7c625f6",
+          "sha256": "d2a42cc96ebb11e3f3f5a4234746ae19153dc2fd6ed22bad0efc2fc83b9d675e",
+          "sha1": "583d9c6410c210f0db4f8c327cdedce407d74487",
+          "md5": "38b8391db67bdef0dbc40b292468bf91"
+        }
+      ]
+    }
+  ]
+}

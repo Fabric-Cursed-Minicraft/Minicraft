@@ -5,7 +5,7 @@ plugins {
 }
 
 group 'com.mojang'
-version '1.0.0'
+version '1.0.1'
 
 mainClassName = "com.mojang.ld22.Game"
 
